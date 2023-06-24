@@ -2,7 +2,7 @@
 
 Eu sou um Front-end Web & Mobile Developer. Atualmente venho trabalhando como freelancer.🔥🚀
 
-#### 💡 Aprendendo:
+#### Estudando:
 
 📱 Front-end Mobile with React Native <br/>
 🌍 Front-end Web with Reactjs <br/>
