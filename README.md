@@ -26,4 +26,4 @@ Eu sou um Front-end Web & Mobile Developer. Atualmente venho trabalhando como fr
 
 <br/>
 
- ###### 🏆 "E que nem um developer, I'm getting better" - Mudaisse
+ ###### 🎯 "E que nem um developer, I'm getting better" - Mudaisse
