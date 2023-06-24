@@ -6,7 +6,7 @@ Eu sou um Front-end Web & Mobile Developer. Atualmente venho trabalhando como fr
 
 📱 Front-end Mobile with React Native <br/>
 🌍 Front-end Web with Reactjs <br/>
-🔄 And more... <br/>
+🔄 E mais... <br/>
 
 #### Ferramentas & Tecnologias do meu dia - dia
 <div style="display: inline_block">
