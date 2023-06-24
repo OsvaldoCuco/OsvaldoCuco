@@ -27,5 +27,8 @@ Eu sou um Front-end Web & Mobile Developer. Atualmente venho trabalhando como fr
   <img align="center" alt="VERCEL" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </div>
 
+<br/>
+
+ #### 🏆 "E que nem um developer, I'm getting better" - Mudaisse
 
 
