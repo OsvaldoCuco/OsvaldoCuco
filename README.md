@@ -4,8 +4,8 @@ Eu sou um Front-end Web & Mobile Developer. Atualmente venho trabalhando como fr
 
 #### Estudando:
 
-📱 Front-end Mobile with React Native <br/>
-🌍 Front-end Web with Reactjs <br/>
+📱 Front-end Mobile com React Native <br/>
+🌍 Front-end Web com Reactjs <br/>
 🔄 E mais... <br/>
 
 #### Ferramentas & Tecnologias do meu dia - dia
