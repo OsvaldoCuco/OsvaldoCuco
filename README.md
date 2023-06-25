@@ -1,6 +1,7 @@
 ## Hey, Eu Sou Osvaldo Cuco <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
 
-E sou um Front-end Web & Mobile Developer. Atualmente venho trabalhando como freelancer.🔥🚀
+E sou um Front-end Web & Mobile Developer.
+Atualmente venho trabalhando como freelancer.🔥🚀
 
 #### Estudando:
 
