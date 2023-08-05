@@ -27,4 +27,4 @@ Atualmente venho trabalhando como freelancer.🔥🚀
 
 <br/>
 
- ###### 🎯 "E que nem um developer, I'm getting better" - Mudaisse
+ ###### 🎯 "Que né um developer, I'm getting better" - Mudaisse
